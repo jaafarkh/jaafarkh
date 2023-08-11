@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaafar 
 - 👀 I’m interested in linux development for embedded systems.
-- 🌱 I’m currently programming in c++, Qt, Mirosoft VS and java
+- 🌱 I’m currently programming in c++, Qt, Mirosoft VS, java, Python and Matlab
 
 
 <!---
